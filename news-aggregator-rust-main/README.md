@@ -78,7 +78,7 @@ Additionally, you need "GNEWS_API_KEY" API key variable  placed in your .env fil
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Timirlon/news-agregator-rust
+    git clone https://github.com/XoxoLbel/news-agregator-rust
     cd news-aggregator-rust
     ```
 
